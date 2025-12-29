@@ -41,7 +41,7 @@ Frontend (React) <--> Backend API (Node.js/Express) <--> PostgreSQL Database (Pr
 git clone https://github.com/your-username/fantasy-football-app.git
 cd fantasy-football-app
 
-### 2. Backend Setup
+2. Backend Setup
 
 cd backend
 npm install
@@ -51,21 +51,21 @@ npx prisma migrate dev --name init
 npm run seed
 npm run dev
 
-### 3. Frontend Setup
+3. Frontend Setup
 cd frontend
 npm install
 npm run dev
 
-### 4. Run Locally
+4. Run Locally
 Backend: http://localhost:4000
 Frontend: http://localhost:5173 (Vite default)
 
-### 5. Environment Variables (.env)
+5. Environment Variables (.env)
 DATABASE_URL=postgresql://user:password@localhost:5432/fantasydb
 JWT_SECRET=your_jwt_secret
 PORT=4000
 
-## Future Improvements
+Future Improvements
 - Real sports API integration
 - Real-time updates using WebSockets
 - Advanced scoring algorithms
