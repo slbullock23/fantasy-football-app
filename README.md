@@ -34,6 +34,13 @@ Frontend (React) <--> Backend API (Node.js/Express) <--> PostgreSQL Database (Pr
 - **Draft Board:** Draft players in real-time
 - **Team View:** See your assembled roster and points
 
+## Future Improvements
+- Real sports API integration
+- Real-time updates using WebSockets
+- Advanced scoring algorithms
+- Betting ledger and history
+- Mobile-responsive design
+
 ## Setup Instructions
 
 ### 1. Clone Repository
@@ -64,10 +71,3 @@ Frontend: http://localhost:5173 (Vite default)
 DATABASE_URL=postgresql://user:password@localhost:5432/fantasydb
 JWT_SECRET=your_jwt_secret
 PORT=4000
-
-Future Improvements
-- Real sports API integration
-- Real-time updates using WebSockets
-- Advanced scoring algorithms
-- Betting ledger and history
-- Mobile-responsive design
