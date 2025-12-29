@@ -2,10 +2,10 @@
 
 ![Fantasy Football Banner](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
-![GitHub stars](https://img.shields.io/github/stars/your-username/fantasy-football-app?style=social)
-![GitHub forks](https://img.shields.io/github/forks/your-username/fantasy-football-app?style=social)
-![GitHub issues](https://img.shields.io/github/issues/your-username/fantasy-football-app)
-![License](https://img.shields.io/github/license/your-username/fantasy-football-app)
+![GitHub stars](https://img.shields.io/github/stars/slbullock23/fantasy-football-app?style=social)
+![GitHub forks](https://img.shields.io/github/forks/slbullock23/fantasy-football-app?style=social)
+![GitHub issues](https://img.shields.io/github/issues/slbullock23/fantasy-football-app)
+![License](https://img.shields.io/github/license/slbullock23/fantasy-football-app)
 
 Welcome to **Fantasy Football Web App** — where your private leagues, epic drafts, and friendly wagers come to life! Build your dream team, compete with friends, and track your fantasy points with mock sports betting data. No public gambling, just private group fun.  
 
