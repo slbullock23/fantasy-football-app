@@ -1,6 +1,6 @@
 # 🏈 Fantasy Football Web App
 
-![Fantasy Football Banner](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+![Fantasy Football Banner](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDZ6NmhrbG5uazR3cDdzODRrZ21lanM5a2NrNW9odnh5ODRyMndnZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcB5L0TIfLrDH8c/giphy.gif)
 
 ![GitHub stars](https://img.shields.io/github/stars/slbullock23/fantasy-football-app?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/slbullock23/fantasy-football-app?style=social)
